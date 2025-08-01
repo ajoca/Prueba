@@ -16,6 +16,9 @@ Aplicación de tareas desarrollada en React Native (Expo) que consume la API de 
 
 Pasamos a expo
 
+## Captura de pantalla
+
+![Vista de la app](app-mobile.jpeg)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
