@@ -1,3 +1,21 @@
+Aplicación de tareas desarrollada en React Native (Expo) que consume la API de DummyJSON.
+
+## Requisitos
+
+- Node.js y npm
+- Expo CLI
+
+## Instalación
+
+1. Clonar el repositorio
+2. Instalar dependencias:
+
+   ```bash
+   npm install
+
+
+Pasamos a expo
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +66,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# TaskAppAPI
+
